@@ -1,4 +1,4 @@
-# Python-Mini-project-Rock_Paper_Scissors
+# Python-Mini-project(Rock_Paper_Scissors)
 
 >> To run these projects follow below instructions:-
 1. Open project file in git repositry.
